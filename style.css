@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-family: Verdana;
+    text-align: center;
+    color: rgb(153, 255, 0);
+    font-size: 70px;
+}
+h2 {
+    color: rgb(0, 255, 255);
+    text-align: center;
+    font-size: 70px;
+}
+p {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 70px;
+}
